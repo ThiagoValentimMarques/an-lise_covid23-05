@@ -15,7 +15,7 @@ Na última sexta-feira (22/05) o Brasil se tornou o segundo país do mundo com m
 
 Sabe-se que no Brasil e no mundo há um cenário de incerteza sobre o real número de casos e de óbitos devido as subnotiificações, mas as informações são mais próximas da realidade quando se há uma política nacional de testagem em massa. Nesse quesito, ainda de acordo com o [Worldometers](https://www.worldometers.info/coronavirus/), o Brasil testa apenas 3.461 pessoas por 1 mihão de habitantes, ficando na última posição dentre os dez países com mais casos confirmados. O Brasil testa tão pouco que na América do Sul só está atrás do Suriname (833), Bolívia (1.270), Guiana (1.782), Argentina (2.788) e Paraguai (3.242 testes/1M pop.), enquanto que Venezuela (27.116), Perú (23.946) e Chile (23.945 testes/1M pop.) lideram o ranking sulamericano.
 
-Diante do exposto, o presente post tem como objetivo realizar uma análise descritiva dos dados sobre a Covid-19 no Brasil com as informações divulgadas pelo Ministério da Saúde no dia de ontem (23/05).
+Diante do exposto, o presente post tem como objetivo realizar uma análise descritiva dos dados sobre a Covid-19 no Brasil com as informações divulgadas ontem (23/05) pelo Ministério da Saúde.
 
 Para acessar o post completo basta clicar [aqui](https://thiagovalentim.netlify.app/post/analise-descritiva-dos-dados-sobre-a-covid-19-no-brasil/).
 
