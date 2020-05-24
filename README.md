@@ -19,3 +19,5 @@ Diante do exposto, o presente post tem como objetivo realizar uma análise descr
 
 Para acessar o post completo basta clicar [aqui](https://thiagovalentim.netlify.app/post/analise-descritiva-dos-dados-sobre-a-covid-19-no-brasil/).
 
+![](https://raw.githubusercontent.com/ThiagoValentimMarques/an-lise_covid23-05/master/unnamed-chunk-8-1.png)
+
